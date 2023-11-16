@@ -1,9 +1,46 @@
+body{
+   background-color: darkorange;
 
+}
 
 footer{
   
 
-   background-color: bisque;
+   background-color: rgb(243, 134, 0);
    padding: 10px
+   
+}
 
+
+
+header{
+color: aqua;
+padding: 30px;
+text-align: center;
+
+
+
+
+}
+
+
+
+footer{
+
+background-color: rgb(240, 248, 255);
+color: blue;
+padding: 20px;
+text-align: center;
+
+
+}
+
+header{
+
+color: #000;
+background-color: rgb(249, 184, 149);
+
+}
+div{
+text-align: center;
 }
